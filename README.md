@@ -4,7 +4,7 @@
 
 > Automate the monotonous, Innovate the impossible
 
-### Languages:
+### Tech Stack:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=csharp&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/CODE-Javascript-informational?style=flat&logo=csharp&logoColor=white&color=F7DF1E)
