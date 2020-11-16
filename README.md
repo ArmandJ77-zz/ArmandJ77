@@ -30,11 +30,11 @@
 
 ### Currently Learning 
 
-Dapr, Azure Service Mesh, Azure, AI and Machine learing, diploma in Database management
+Dapr, Azure Service Mesh, Azure, AI and Machine learing and busy with a diploma in Database Management with a specialization in AI & Machine learning
 
 ### Working on
 
-The CQRS and Mediator microservice boiler plate along with a companion cli codde generation tool for rapid prototyping on the dotnet core stack.
+The CQRS and Mediator microservice boilerplate along with a companion cli code generation tool for rapid prototyping on the dotnet core stack.
 
 ### Reach me 
 
