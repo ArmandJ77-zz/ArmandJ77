@@ -1,6 +1,6 @@
 ## HELLO WORLD! 👋
 
-#### I am dynamic and creative full-stack software developer with over 7 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech and Gaming space. Eager to be apart and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored/ supported CRMs and microservice architectures, overseen integration projects for AIG Insurance, Virgin Money and handled customer sensitive data for South African banks. 
+#### I am dynamic and creative full-stack software developer with over 8 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech and Gaming space. Eager to be apart and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored/ supported CRMs and microservice architectures, overseen integration projects for AIG Insurance, Virgin Money and handled customer sensitive data for South African banks. 
 
 > Automate the monotonous, Innovate the impossible
 
@@ -38,14 +38,7 @@ The CQRS and Mediator microservice boilerplate along with a companion cli code g
 
 ### Reach me 
 
-[LinkedIn](https://www.linkedin.com/in/armandjordaan/)
-
-[Twitter](https://twitter.com/jordaan_armand) 
-
-[Medium](https://medium.com/@armandjordaan6)
-
-[Website](https://armandjordaan.com)
-
+[LinkedIn](https://www.linkedin.com/in/armandjordaan/) | [Twitter](https://twitter.com/jordaan_armand) | [Medium](https://medium.com/@armandjordaan6) | [Website](https://armandjordaan.com)
 
 <!--
 **ArmandJ77/ArmandJ77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
