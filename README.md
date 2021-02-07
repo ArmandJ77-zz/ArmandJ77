@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/Frameworks-Nodejs-informational?style=flat&logo=csharp&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Frameworks-TypeScript-informational?style=flat&logo=csharp&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Frameworks-DotnetCore-informational?style=flat&logo=csharp&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/Frameworks-Blazor-informational?style=flat&logo=csharp&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=csharp&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-GithubActions-informational?style=flat&logo=csharp&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=csharp&logoColor=white&color=DC382D)
@@ -30,11 +29,17 @@
 
 ### Currently Learning 
 
-Dapr, Azure Service Mesh, Azure, AI and Machine learing and busy with a diploma in Database Management with a specialization in AI & Machine learning
+- Dapr and Microsoervice Architecture
+- Advnaced Certificate in IT: Database Management
+- React hooks
+- React Native
 
 ### Working on
 
-The CQRS and Mediator microservice boilerplate along with a companion cli code generation tool for rapid prototyping on the dotnet core stack.
+- A dapr e-commerce demo site for microsorvices
+- New blog series around microservices
+- Refresh of my dotnetcore scaffolding tool and CQRS Mediator Medium Articles
+- New blog series focused on developer productivity and microservices
 
 ### Reach me 
 
